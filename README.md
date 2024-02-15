@@ -1,5 +1,7 @@
 # Memory Matching Game
 
+![Screenshot](https://raw.githubusercontent.com/elvan/memory-matching-game-react-example/main/_screenshots_/Screenshot%202024-02-15%20215142.png)
+
 ## Description
 
 This project is a memory matching game developed using React. It challenges players to match pairs of cards by remembering their locations. The game is designed to improve cognitive skills and memory. It provides an engaging way to test and enhance quick thinking, memory, and attention to detail through a simple yet captivating interface.
